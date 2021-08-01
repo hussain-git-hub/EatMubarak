@@ -46,5 +46,6 @@ Use Case Diagram
 
 Class Diagram
 
-![ClassDiagram](https://user-images.githubusercontent.com/85122271/127767718-3a125b94-4aff-48b0-b0e7-f0ee599cf2d5.png)
+![Class Diagam](https://user-images.githubusercontent.com/85122271/127771965-ebb55a05-5e21-444e-939e-02a193eef2f3.png)
+
 
